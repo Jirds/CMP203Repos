@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Scene.cpp
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(91,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(92,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(81,8): warning C4101: 'xCurr': unreferenced local variable
+  GraphicsProgramming.vcxproj -> D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\Debug\GraphicsProgramming.exe

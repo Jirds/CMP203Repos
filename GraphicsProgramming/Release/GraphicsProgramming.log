@@ -1,0 +1,33 @@
+﻿  Camera.cpp
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Camera.cpp(19,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Camera.cpp(20,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Camera.cpp(21,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Camera.cpp(22,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Camera.cpp(23,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Input.cpp
+  Main.cpp
+  Model.cpp
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Camera.cpp(24,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Model.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Model.cpp(124,26): warning C4244: 'initializing': conversion from '_Ty' to 'unsigned int', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Model.cpp(124,26): warning C4244:         with
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Model.cpp(124,26): warning C4244:         [
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Model.cpp(124,26): warning C4244:             _Ty=float
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Model.cpp(124,26): warning C4244:         ]
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(91,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(92,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Shape.cpp
+  Vector3.cpp
+D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\GraphicsProgramming\Scene.cpp(81,8): warning C4101: 'xCurr': unreferenced local variable
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\Release\SOIL.pdb'; linking object as if no debug info
+  GraphicsProgramming.vcxproj -> D:\Downloads\Graphics again\CMP203-Framework-master\GraphicsProgramming\Release\GraphicsProgramming.exe
